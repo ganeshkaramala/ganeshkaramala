@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ganeshkaramala
 - 👀 I’m interested in could and fullstack application development.
-- 🌱 I’m currently learning AWS | Kubernetes
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning AWS | Kubernetes | System Design
+- 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me ganeshkaramala@gmail.com
 
 <!---
